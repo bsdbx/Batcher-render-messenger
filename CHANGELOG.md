@@ -4,11 +4,11 @@
 
 # __Initial Commit__
 ### __Added__
-* ##### Telegram Bot
-* ##### Renderer Menu
-* ##### Customizable Preferences
+* #### Telegram Bot
+* #### Renderer Menu
+* #### Customizable Preferences
 ### __Changed__
-* ##### This Commint Didn't Get Any Changes
+* #### This Commint Didn't Get Any Changes
 ### __Fixed__
-* ##### This Commit Didn't Get Any Changes
+* #### This Commit Didn't Get Any Changes
 ---
