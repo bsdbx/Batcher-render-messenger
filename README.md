@@ -5,4 +5,7 @@
  
  __OS Requirements:__ Currently [__Windows__](https://support.microsoft.com/ru-ru/windows) and [__Linux__](https://www.linux.com/) are supported. If you use [__macOS__](https://support.apple.com/macos) be ready to recive inconvinients.
 
+ __ChangeLog:__ [CHANGELOG.md](https://github.com/bsdbx/Batcher-render-messenger/blob/main/CHANGELOG.md)
+ 
+
  
