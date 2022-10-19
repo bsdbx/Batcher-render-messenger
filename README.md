@@ -23,6 +23,8 @@
 # **Setup**
 * ### **Blender Installation:**
   * #### Go to Repository source code -> `Code` -> `Download ZIP`
+    * #### *If you are using Mobile App:* `Browse Source` -> `Share via...` -> Share it to whatever you want and pack it to `.zip` file, yourself.
+  * #### Open Blender(*version 3.0.0 +*) -> `Edit` -> `Preferences` -> `Add-ons` -> `Install` -> Browse to archive you have downloaded previously -> Click `Install Add-On`. Blender should __Automaticly__ search for Add-On name -> [x] Tick checkbox between the Addon name.
 
 
  
