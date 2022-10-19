@@ -11,18 +11,18 @@
  __ChangeLog:__ [CHANGELOG.md](https://github.com/bsdbx/Batcher-render-messenger/blob/main/CHANGELOG.md)
 
  # **Description**  
- ### __Batcher - Render Messenger__ is an Addon that notifies you about such render events as: Start, Finish, Cancel. It can be extremely helpful for large projects and studios. 
- ### __Note:__ if you like a product, please, consider purchasing it on [__Blender Market__](). Your donation will motivate me to create more helpful Addons!
+ #### __Batcher - Render Messenger__ is an Addon that notifies you about such render events as: Start, Finish, Cancel. It can be extremely helpful for large projects and studios. 
+ #### __Note:__ if you like a product, please, consider purchasing it on [__Blender Market__](). Your donation will motivate me to create more helpful Addons!
 
 ## **What This Addon Can Do?**
-* ### Render Notifications!
-* ### Useful Render Settings!
-* ### Export Renders And Animations!
-* ### Customizable Preferences!
+* #### Render Notifications!
+* #### Useful Render Settings!
+* #### Export Renders And Animations!
+* #### Customizable Preferences!
 
 # **Setup**
 * ### **Blender Installation:**
-  * ### Go to Repository source code -> `Code` -> `Download ZIP`
+  * #### Go to Repository source code -> `Code` -> `Download ZIP`
 
 
  
