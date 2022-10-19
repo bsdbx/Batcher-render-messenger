@@ -1,6 +1,6 @@
 # __Change Log__
-### All notable changes to this project will be documented in this file.
-### The format is based on [__Keep a Changelog__](https://keepachangelog.com/en/1.0.0/) and this project adheres to [__Semantic Versioning__](https://semver.org/).
+#### All notable changes to this project will be documented in this file.
+#### The format is based on [__Keep a Changelog__](https://keepachangelog.com/en/1.0.0/) and this project adheres to [__Semantic Versioning__](https://semver.org/).
 
 # __Initial Commit__
 ### __Added__
