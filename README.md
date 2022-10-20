@@ -39,7 +39,7 @@
   
 # **Features**
   1. ### __Quickly Setup Renders__
-      ![image info](./content/content.png)
+      <a href="https://ibb.co/rpzCYRn"><img src="https://i.ibb.co/n1YH9Nh/content.png" alt="content" border="0"></a>
 
 
 
