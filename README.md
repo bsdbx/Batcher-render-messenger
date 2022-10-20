@@ -63,7 +63,7 @@ ___
 
 ### __Support__
     You can show your love simply by sending me couple bucks! If you like an addon or just want to make me happy, donation will be the best choise!
-  [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](rakbogdam56@gmail.com)
+  [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](rakbogdan56@gmail.com)
 
 
 
