@@ -51,6 +51,20 @@
   3. ### __And More__
       #### __Additional, Video information can be found__ __[here]()__
 
+# **Add-On Possible Updates**
+  * ### Windows Notifications
+  * ### Sound Notifications
+  * ### Additional Softwares(_e.g. Marmoset Toolbag, RenderMan, Maya_)
+    * ### In developnment
+  * ### Discord, What's Up, Gmail, etc. integration
+  ### __If you have any ideas, suggestions, thoughts about improvements or you have found an Issue, please consider to text me: rakbogdan56@gmail.com__
+
+___
+
+### __Support__
+    You can show your love simply by sending me couple bucks! If you like an addon or just want to make me happy, donation will be the best choise!
+  [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](rakbogdam56@gmail.com)
+
 
 
 
