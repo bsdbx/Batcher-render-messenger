@@ -40,6 +40,9 @@
 # **Features**
   1. ### __Quickly Setup Renders__
       <a href="https://ibb.co/rpzCYRn"><img src="https://i.ibb.co/n1YH9Nh/content.png" alt="content" border="0"></a> 
+  2. ### __Recieve Telegram Notification__
+      <a href="https://ibb.co/0fCKVT7"><img src="https://i.ibb.co/VvgxpR1/Telegram-Bot.png" alt="Telegram-Bot" border="0"></a>
+
 
 
 
