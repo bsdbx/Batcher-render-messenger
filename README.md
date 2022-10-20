@@ -22,7 +22,7 @@
 
 # **Setup**
 * ### **Blender Installation:**
-  * #### Go to Repository source code -> `Code` -> `Download ZIP`
+  * #### Go to Repository source code -> Find file called `batcher__render_messenger,zip` -> Click `Download`
     * #### *If you are using Mobile App:* `Browse Source` -> `Share via...` -> Share it to whatever you want and pack it to `.zip` file, yourself.
   * #### Open Blender(*version 3.0.0 +*) -> `Edit` -> `Preferences` -> `Add-ons` -> `Install` -> Browse to archive you have downloaded previously -> Click `Install Add-On`. Blender should __Automaticly__ search for Add-On name -> Tick checkbox between the Addon name.
 
@@ -32,6 +32,14 @@
         * #### More information about Chat ID can be found [__here__]()
     * #### In __Blender__ paste your ID to dedicated input.
     * #### In order to save your __Renders__ specify Image Saving Path(`Output Path`)
+
+* ### **Additionally:**
+    * #### In `Preferences` you can also find button called `Check For Updated`, click it if you wnat to know version info!
+    * #### Tere is also a way to be redirected to __BlenderMarket/Gumroad__, there you can support me, if you want!
+  
+# **Features**
+  1. ### __Quickly Setup Renders__
+      ![image info](./content/content.png)
 
 
 
