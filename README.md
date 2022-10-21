@@ -63,12 +63,7 @@ ___
 
 ### __Support__
     You can show your love simply by sending me couple bucks! If you like an addon or just want to make me happy, donation will be the best choise!
-[
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y)
-
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=S7398ZSHZUU2A)
 
 
  
