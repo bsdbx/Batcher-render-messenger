@@ -1,7 +1,7 @@
 >
 <a href="https://ibb.co/WpQsVQ7"><img src="https://i.ibb.co/Z13N23v/imageedit-3-5679671273.jpg" alt="imageedit-3-5679671273" border="0"></a>
 
-## [__Ukranian__](https://github.com/bsdbx/Batcher-render-messenger/blob/main/languages/readme/README_UKR.md), [__Russian__]()
+## [__Ukranian__](https://github.com/bsdbx/Batcher-render-messenger/blob/main/languages/readme/README_UKR.md), [__Russian__](https://github.com/bsdbx/Batcher-render-messenger/blob/main/languages/readme/README_RUS.md)
 
 
  # **Batcher - Render Messenger**
