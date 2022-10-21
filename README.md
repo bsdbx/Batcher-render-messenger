@@ -52,18 +52,18 @@
       #### __Additional, Video information can be found__ __[here]()__
 
 # **Add-On Possible Updates**
-  * ### Windows Notifications
-  * ### Sound Notifications
-  * ### Additional Softwares(_e.g. Marmoset Toolbag, RenderMan, Maya_)
-    * ### In developnment
-  * ### Discord, What's Up, Gmail, etc. integration
-  ### __If you have any ideas, suggestions, thoughts about improvements or you have found an Issue, please consider to text me: rakbogdan56@gmail.com__
+  * #### Windows Notifications
+  * #### Sound Notifications
+  * #### Additional Softwares(_e.g. Marmoset Toolbag, RenderMan, Maya_)
+    * #### In developnment
+  * #### Discord, What's Up, Gmail, etc. integration
+  #### __If you have any ideas, suggestions, thoughts about improvements or you have found an Issue, please consider to text me: rakbogdan56@gmail.com__
 
 ___
 
 ### __Support__
     You can show your love simply by sending me couple bucks! If you like an addon or just want to make me happy, donation will be the best choise!
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=S7398ZSHZUU2A)
+[![](https://pics.paypal.com/00/s/OTQyOTE5OTMtOTUwZC00ZTYyLWFiMTAtOTNlOTZiYzdiOWZj/file.PNG)](https://www.paypal.com/donate/?hosted_button_id=S7398ZSHZUU2A)
 
 
  
