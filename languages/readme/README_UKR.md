@@ -1,6 +1,6 @@
 <a href="https://ibb.co/WpQsVQ7"><img src="https://i.ibb.co/Z13N23v/imageedit-3-5679671273.jpg" alt="imageedit-3-5679671273" border="0"></a>
 
-## [__Англійська__](https://github.com/bsdbx/Batcher-render-messenger/blob/main/README.md), [__Російська__]()
+## [__Англійська__](https://github.com/bsdbx/Batcher-render-messenger/blob/main/README.md), [__Російська__](https://github.com/bsdbx/Batcher-render-messenger/blob/main/languages/readme/README_RUS.md)
 # **Batcher - Рендер Сповіщувач**
  __Аддон__ для [__Блендер__](https://www.blender.org/) версії *3.0.0+* та [__Телеграм__](https://telegram.org/)
 
