@@ -42,15 +42,13 @@
     * #### In `Preferences` you can also find button called `Check For Updates`, click it if you wnat to know version info!
     * #### Tere is also a way to be redirected to __BlenderMarket/Gumroad__, there you can support me, if you want!
   
-> ### __If you want to learn more or written setup tutorial doesn't seem clear to you, first of all, make sure to notify me about it: rakbogdan56@gmail.com and then watch [_video_]() tutorial that is showing setup process step by step!__
+> ### __If you want to learn more or written setup tutorial doesn't seem clear to you, first of all, make sure to notify me about it: rakbogdan56@gmail.com and then watch [_video_](https://www.youtube.com/watch?v=FGbYFcuWqhc) tutorial that is showing setup process step by step!__
   
 # **Features**
   1. ### __Quickly Setup Renders__
       <a href="https://ibb.co/rpzCYRn"><img src="https://i.ibb.co/n1YH9Nh/content.png" alt="content" border="0"></a> 
   2. ### __Recieve Telegram Notification__
       <a href="https://ibb.co/0fCKVT7"><img src="https://i.ibb.co/VvgxpR1/Telegram-Bot.png" alt="Telegram-Bot" border="0"></a>
-  3. ### __And More__
-      #### __Additional, Video information can be found__ __[here]()__
 
 # **Development**
   ### **Future Updates**
