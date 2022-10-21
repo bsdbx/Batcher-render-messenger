@@ -1,7 +1,7 @@
 >
 <a href="https://ibb.co/WpQsVQ7"><img src="https://i.ibb.co/Z13N23v/imageedit-3-5679671273.jpg" alt="imageedit-3-5679671273" border="0"></a>
 
-## [__Ukranian__](https://github.com/bsdbx/Batcher-render-messenger/blob/main/languages/readme/README_UKR.md), [__Russian__](), [__Chinese__]()
+## [__Ukranian__](https://github.com/bsdbx/Batcher-render-messenger/blob/main/languages/readme/README_UKR.md), [__Russian__]()
 
 
  # **Batcher - Render Messenger**
@@ -34,7 +34,7 @@
 
 * ### **Bot Setup:**
     * #### Open `Preferences` -> Find `Telegram ID` input.
-    * #### Open `Telegram` -> Search for  `Telegram Bot Raw` -> Press `/start` -> You are looking for `"chat"` -> `"id"` -> Copy ID.
+    * #### Open `Telegram` -> Search for  `Telegram Bot Raw` -> Press `/start` -> You are looking for `"chat id"` -> Copy ID.
     * #### In __Blender__ paste your ID to dedicated input.
     * #### In order to save your __Renders__ specify Image Saving Path(`Output Path`)
 
@@ -67,7 +67,7 @@
 ___
 
 ### __Support__
-    You can show your love simply by sending me couple bucks! If you like an addon or just want to make me happy, donation will be the best choise!
+    You can show gratitude simply by sending me couple bucks! If you like an addon or just want to make me happy, donation will be the best choise!
 [![](https://pics.paypal.com/00/s/OTQyOTE5OTMtOTUwZC00ZTYyLWFiMTAtOTNlOTZiYzdiOWZj/file.PNG)](https://www.paypal.com/donate/?hosted_button_id=S7398ZSHZUU2A)
 
 
