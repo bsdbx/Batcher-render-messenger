@@ -42,7 +42,7 @@
     * #### In `Preferences` you can also find button called `Check For Updates`, click it if you wnat to know version info!
     * #### Tere is also a way to be redirected to __BlenderMarket/Gumroad__, there you can support me, if you want!
   
-> ### __If you want to learn more or written setup tutorial doesn't seem clear to you, first of all, make sure to notify me bout it: rakbogdan56@gmail.com and then watch [_video_]() tutorial that is showing setup process step by step!__
+> ### __If you want to learn more or written setup tutorial doesn't seem clear to you, first of all, make sure to notify me about it: rakbogdan56@gmail.com and then watch [_video_]() tutorial that is showing setup process step by step!__
   
 # **Features**
   1. ### __Quickly Setup Renders__
@@ -57,7 +57,7 @@
   * #### Windows Notifications
   * #### Sound Notifications
   * #### Additional Softwares(_e.g. Marmoset Toolbag, RenderMan, Maya_)
-    * #### In developnment
+    * #### In development
   * #### Discord, What's Up, Gmail, etc. integration
   ### **Developer Toolkit**
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)![Serpens](https://camo.githubusercontent.com/84fa74dc133f94422c7406389a9ad66b42fb0534660e292f539e3899a8172c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53455250454e53253230332d3030656461393f7374796c653d666f722d7468652d6261646765266c6f676f3d626c656e646572266c6f676f436f6c6f723d7768697465)
